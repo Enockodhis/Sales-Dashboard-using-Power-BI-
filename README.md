@@ -6,7 +6,7 @@ This is my latest Power BI report which i used to connect and visualize sales da
 2. Edit Data in Power Query Editor.
 3. Create Columns and Measures.
 4. Create Visuals 
-#Data #Data Analyst #Business Analyst #PowerBi 
+#Data #Data Analyst #Business Analyst #PowerBi.
 
 
 
